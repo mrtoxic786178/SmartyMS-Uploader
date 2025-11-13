@@ -148,7 +148,7 @@ async def start(client: Client, msg: Message):
     await asyncio.sleep(1)
     await start_message.edit_text(
         Data.START.format(msg.from_user.mention) +
-        "Checking status Okay... Command is Private Baby.😘🌚**Bot Made BY @Toxic_Official_1**🔍\n\n"
+        "Checking status Okay... Command is Private Baby.😘🌚**Bot Made BY🦅 @Toxic_Official_1**🔍\n\n"
         "Progress:[🟩🟩🟩🟩🟩🟩🟩🟩🟩] 100%\n\n"
     )
 
@@ -391,7 +391,7 @@ async def txt_handler(bot: Client, m: Message):
 
     except Exception as e:
         await m.reply_text(e)
-    await m.reply_text("𝐀𝐋𝐋 𝐃𝐎𝐍𝐄😚✅🔸🔹 Download By✰: @Toxic_Official_1")
+    await m.reply_text("𝐀𝐋𝐋 𝐃𝐎𝐍𝐄🦅✅🔸🔹 Download By✰: @Toxic_Official_1")
 
 # Advance
 
@@ -625,7 +625,7 @@ async def txt_handler(bot: Client, m: Message):
 
     except Exception as e:
         await m.reply_text(e)
-    await m.reply_text("𝐀𝐋𝐋 𝐃𝐎𝐍𝐄😚✅🔸🔹 Download By🦅 : @Toxic_Official_1 ❖")
+    await m.reply_text("𝐀𝐋𝐋 𝐃𝐎𝐍𝐄🦅✅🔸🔹 Download By🦅 : @Toxic_Official_1 ❖")
 
 
 
